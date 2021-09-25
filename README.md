@@ -19,6 +19,8 @@ GridSearch or RandomSearch can be a method to get the best accuracy results for 
  ┣ 📜comparasi algoritma sentiment analysis.ipynb <--- Script
  ┣ 📜dataset_tweet_sentiment_cellular_service_provider <--- Raw Dataset
  ┣ 📜dataset_bersih_cellular <--- Dataset preprocessing
+ ┣ 📜update_combined_slang_words.txt <--- Dict slang words
+ ┣ 📜combined_stop_words <--- Dict stop words
  ┗ 📜README.md <--- Details project
 ```
 
